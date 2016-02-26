@@ -1,0 +1,12 @@
+D:\Visual studio\mY project\mY project\bin\Debug\mY project.exe
+D:\Visual studio\mY project\mY project\bin\Debug\mY project.pdb
+D:\Visual studio\mY project\mY project\bin\Debug\mY project.xml
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY_project.Form1.resources
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY_project.Resources.resources
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY project.vbproj.GenerateResource.Cache
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY project.exe
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY project.xml
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY project.pdb
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY_project.Receive.resources
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY_project.Pick.resources
+D:\Visual studio\mY project\mY project\obj\x86\Debug\mY_project.InventoryList.resources
